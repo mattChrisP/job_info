@@ -23,7 +23,7 @@ This project was inspired by and references **[Jobs_Applier_AI_Agent_AIHawk](htt
    - Sends an email to the user with **job details** and the **generated cover letter** as an attachment.
 
 ### Diagram
-![System Overview](job_info.png)
+![System Overview](job_info.jpg)
 
 ## Installation & Setup
 
